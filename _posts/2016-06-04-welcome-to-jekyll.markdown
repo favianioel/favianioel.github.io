@@ -5,12 +5,12 @@ date:   2016-06-04 14:06:53 -0400
 categories: jekyll update
 ---
 AngularJs
-=========
+---------
 
 Angular is a powerfull framework that makes things easy , a great framework for one page web apps and it's made BY GOOGLE .
 
 Angular controller snipet:
---------------------------
+=========================
 
 {% highlight javascript %}
 angular.module('todoListApp')
@@ -36,7 +36,7 @@ angular.module('todoListApp')
 {% endhighlight %}
 
 Angular Service snipet:
---------------------------
+======================
 
 {% highlight javascript %}
 angular.module('todoListApp')
@@ -59,7 +59,7 @@ angular.module('todoListApp')
 {% endhighlight %}
 
 Angular Html view snipet:
---------------------------
+=========================
 
 {% highlight html %}
 <!doctype html>
