@@ -5,47 +5,9 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 	<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-	<style>
-		html,body {
-			position: relative; 
-			height: 100%;
-		}
-
-		#about {
-			padding-top:50px;
-			height: 100%;
-			color: #fff;
-			background-image: url("");
-			background-repeat: no-repeat;
-			background-size: 100%;	
-		}
-		#skills {
-			padding-top:50px;
-			height:100%;
-			color: #fff;
-			background-image: url("https://hd.unsplash.com/photo-1445620466293-d6316372ab59");
-			background-repeat: no-repeat;
-			background-size: 100%;
-		}
-		#portofolio {
-			padding-top:50px;
-			height:100%;
-			color: #fff;
-			background-image: url("bgdesert.jpg");
-			background-repeat: no-repeat;
-			background-size: 100%;
-		}
-		#contact {
-			padding-top:50px;
-			height:100%;
-			color: #fff;
-			background-image: url("https://hd.unsplash.com/photo-1465221014858-bf65225daae1");
-			background-repeat: no-repeat;
-			background-size: 100%;
-		}
-	</style>
 </head>
 <body data-spy="scroll" data-target=".navbar" data-offset="10">
 
@@ -96,28 +58,6 @@
 			</div>
 		</div>
 	</div>
-	<script>
-		$(document).ready(function(){
-	  // Add smooth scrolling to all links
-	  $("a").on('click', function(event) {
-
-	    // Make sure this.hash has a value before overriding default behavior
-	    if (this.hash !== "") {
-	      // Prevent default anchor click behavior
-	      event.preventDefault();
-	      // Store hash
-	      var hash = this.hash;
-	      // Using jQuery's animate() method to add smooth page scroll
-	      // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
-	      $('html, body').animate({
-	      	scrollTop: $(hash).offset().top
-	      }, 800, function(){
-	        // Add hash (#) to URL when done scrolling (default click behavior)
-	        window.location.hash = hash;
-	    });
-	    } // End if
-	});
-	});
-</script>
+<script src="js/main.js" type="text/javascript"></script>
 </body>
 </html>

@@ -1,0 +1,38 @@
+html,
+body {
+	position: relative; 
+	height: 100%;
+}
+
+#about {
+	padding-top:50px;
+	height: 100%;
+	color: #fff;
+	background-image: url("");
+	background-repeat: no-repeat;
+	background-size: 100%;	
+}
+#skills {
+	padding-top:50px;
+	height:100%;
+	color: #fff;
+	background-image: url("https://hd.unsplash.com/photo-1445620466293-d6316372ab59");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+#portofolio {
+	padding-top:50px;
+	height:100%;
+	color: #fff;
+	background-image: url("bgdesert.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+#contact {
+	padding-top:50px;
+	height:100%;
+	color: #fff;
+	background-image: url("https://hd.unsplash.com/photo-1465221014858-bf65225daae1");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
