@@ -7,8 +7,8 @@ body {
 #about {
 	padding-top:50px;
 	height: 100%;
-	color: #fff;
-	background-image: url("");
+	color: #000;
+	background-image: url("../assets/img/jump.jpeg");
 	background-repeat: no-repeat;
 	background-size: 100%;	
 }
@@ -16,15 +16,15 @@ body {
 	padding-top:50px;
 	height:100%;
 	color: #fff;
-	background-image: url("https://hd.unsplash.com/photo-1445620466293-d6316372ab59");
+	background-image: url("../assets/img/street.jpeg");
 	background-repeat: no-repeat;
 	background-size: 100%;
 }
 #portofolio {
 	padding-top:50px;
 	height:100%;
-	color: #fff;
-	background-image: url("bgdesert.jpg");
+	color: #000;
+	background-image: url("../assets/img/laptop.jpeg");
 	background-repeat: no-repeat;
 	background-size: 100%;
 }
@@ -32,7 +32,7 @@ body {
 	padding-top:50px;
 	height:100%;
 	color: #fff;
-	background-image: url("https://hd.unsplash.com/photo-1465221014858-bf65225daae1");
+	background-image: url("../assets/img/path.jpeg");
 	background-repeat: no-repeat;
 	background-size: 100%;
 }
