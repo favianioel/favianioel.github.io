@@ -8,22 +8,22 @@ body {
 #about {
 	background-image: url("../assets/img/jump.jpeg");
 	background-repeat: no-repeat;
-	background-size: 100%;	
+	background-size: 100% auto;	
 }
 #skills {
 	background-image: url("../assets/img/street.jpeg");
 	background-repeat: no-repeat;
-	background-size: 100%;
+	background-size: 100% auto;
 }
 #portofolio {
 	background-image: url("../assets/img/laptop.jpeg");
 	background-repeat: no-repeat;
-	background-size: 100%;
+	background-size: 100% auto;
 }
 #contact {
 	background-image: url("../assets/img/path.jpeg");
 	background-repeat: no-repeat;
-	background-size: 100%;
+	background-size: 100% auto;
 }
 /*UNDER SECTIONS*/
 .undersection{
