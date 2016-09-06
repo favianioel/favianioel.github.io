@@ -5,33 +5,21 @@ body {
 }
 
 #about {
-	padding-top:50px;
-	height: 100%;
-	color: #000;
 	background-image: url("../assets/img/jump.jpeg");
 	background-repeat: no-repeat;
 	background-size: 100%;	
 }
 #skills {
-	padding-top:50px;
-	height:100%;
-	color: #fff;
 	background-image: url("../assets/img/street.jpeg");
 	background-repeat: no-repeat;
 	background-size: 100%;
 }
 #portofolio {
-	padding-top:50px;
-	height:100%;
-	color: #000;
 	background-image: url("../assets/img/laptop.jpeg");
 	background-repeat: no-repeat;
 	background-size: 100%;
 }
 #contact {
-	padding-top:50px;
-	height:100%;
-	color: #fff;
 	background-image: url("../assets/img/path.jpeg");
 	background-repeat: no-repeat;
 	background-size: 100%;
