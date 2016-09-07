@@ -1,29 +1,23 @@
-/*FATHERS*/
-html,
-body {
-	position: relative; 
-	height: 100%;
-}
 /*SECTIOONS*/
 #about {
 	background-image: url("../assets/img/jump.jpeg");
 	background-repeat: no-repeat;
-	background-size: 100% auto;	
+	background-size:  cover;	
 }
 #skills {
 	background-image: url("../assets/img/street.jpeg");
 	background-repeat: no-repeat;
-	background-size: 100% auto;
+	background-size:  cover;
 }
 #portofolio {
 	background-image: url("../assets/img/laptop.jpeg");
 	background-repeat: no-repeat;
-	background-size: 100% auto;
+	background-size:  cover;
 }
 #contact {
 	background-image: url("../assets/img/path.jpeg");
 	background-repeat: no-repeat;
-	background-size: 100% auto;
+	background-size:  cover;
 }
 /*UNDER SECTIONS*/
 .undersection{
