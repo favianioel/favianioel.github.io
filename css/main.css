@@ -1,23 +1,24 @@
+/*---------*/
 /*SECTIOONS*/
+/*---------*/
+
+/*this is for all sections*/
+.section{
+  background-repeat: no-repeat;
+  background-size:  cover;  
+}
+/*individual sections*/
 #about {
 	background-image: url("../assets/img/jump.jpeg");
-	background-repeat: no-repeat;
-	background-size:  cover;	
 }
 #skills {
 	background-image: url("../assets/img/street.jpeg");
-	background-repeat: no-repeat;
-	background-size:  cover;
 }
 #portofolio {
 	background-image: url("../assets/img/laptop.jpeg");
-	background-repeat: no-repeat;
-	background-size:  cover;
 }
 #contact {
 	background-image: url("../assets/img/path.jpeg");
-	background-repeat: no-repeat;
-	background-size:  cover;
 }
 /*UNDER SECTIONS*/
 .undersection{
@@ -27,7 +28,10 @@
   padding: 10px;
   text-align: center;
 }
+
+/*--------------------------*/
 /*SCROLL MOUSE SVG ANIMATION*/
+/*--------------------------*/
 svg {
   vertical-align: middle;
 }
