@@ -1,5 +1,8 @@
 $(document).ready(function() {
-    $('#fullpage').fullpage();
+    $('#fullpage').fullpage({
+    	anchors: ['about-info', 'skills-info', 'portofolio-info', 'contact-info'],
+		scrollingSpeed: 1000
+    });
 
 // scroll page svg show on mousemove
     var i = null;

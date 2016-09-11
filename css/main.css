@@ -8,21 +8,21 @@
   background-size:  cover;  
 }
 /*individual sections*/
-#about {
+#section0 {
 	background-image: url("../assets/img/jump.jpeg");
 }
-#skills {
+#section1 {
 	background-image: url("../assets/img/street.jpeg");
 }
-#portofolio {
+#section2 {
 	background-image: url("../assets/img/laptop.jpeg");
 }
-#contact {
+#section3 {
 	background-image: url("../assets/img/path.jpeg");
 }
 /*UNDER SECTIONS*/
 .undersection{
-	border: solid yellow 3px;
+	/*border: solid yellow 3px;*/
 	width: 60%;
   margin: 0 auto;
   padding: 10px;
