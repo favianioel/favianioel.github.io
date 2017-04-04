@@ -19,3 +19,4 @@ self.addEventListener("fetch", function (event) {
             return cache.match(event.request);
         })     
     )
+});
