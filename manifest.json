@@ -1,0 +1,9 @@
+{  
+  "short_name": "favianioel",  
+  "name": "Favian Ioel P.",  
+  "start_url": "./?utm_source=web_app_manifest",    
+  "background_color": "#FAFAFA",
+  "theme_color": "#512DA8", 
+  "display": "standalone",  
+  "orientation": "portrait"  
+}
