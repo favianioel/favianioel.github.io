@@ -2,21 +2,22 @@
  * Created by favianioel on 04.04.2017.
  */
 'use strict';
-self.addEventListener("install", function (event) {
-    event.waitUntil(
-        caches.open("jsmonthlyfip").then(function(cache) {
-            cache.addAll([
-                "/index.html",
-                "/app.css"
-            ])
-        })
-    )
-});
+console.log('not acting weird");
+// self.addEventListener("install", function (event) {
+//     event.waitUntil(
+//         caches.open("jsmonthlyfip").then(function(cache) {
+//             cache.addAll([
+//                 "/index.html",
+//                 "/app.css"
+//             ])
+//         })
+//     )
+// });
 
-self.addEventListener("fetch", function (event) {
-    event.respondWith(
-        caches.open("jsmonthlyfip").then(function (cache) {
-            return cache.match(event.request);
-        })     
-    )
-});
+// self.addEventListener("fetch", function (event) {
+//     event.respondWith(
+//         caches.open("jsmonthlyfip").then(function (cache) {
+//             return cache.match(event.request);
+//         })     
+//     )
+// });
