@@ -3,7 +3,7 @@
   "short_name": "Favian Ioel",
   "theme_color": "#2AB5D3",
   "background_color": "#2196f3",
-  "display": "browser",
+  "display": "standalone",
   "orientation": "portrait",
   "Scope": "/favianioel/",
   "start_url": "/index.html",
