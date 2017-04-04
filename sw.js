@@ -6,8 +6,8 @@ self.addEventListener("install", function (event) {
     event.waitUntil(
         caches.open("jsmonthlyfip").then(function(cache) {
             cache.addAll([
-                "/index.html",
-                "/app.css"
+                "/in.html",
+                "/a.css"
             ])
         })
     )
