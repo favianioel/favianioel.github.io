@@ -1,9 +1,9 @@
 {
   "name": "Favian Ioel P.",
-  "short_name": "favianioel",
-  "theme_color": "#2196f3",
+  "short_name": "Favian Ioel",
+  "theme_color": "#2AB5D3",
   "background_color": "#2196f3",
-  "display": "standalone",
+  "display": "browser",
   "orientation": "portrait",
   "Scope": "/",
   "start_url": "/index.html",
