@@ -66,5 +66,12 @@
     <a href="http://facebook.com/favianioel" target="_blank" rel="noopener"><img src="img/facebook-min.png" alt="facebook Logo" class="social-icon" ></a>
     <p>&copy; 2016 Favian Ioel P.</p><br>
   </footer>
+  <script>
+            navigator.serviceWorker.register('/sw.js').then(function () {
+                console.info('service worker availble');
+            }).catch(function (e) {
+                console.info(e);
+            })
+    </script>
 </body>
 </html>
