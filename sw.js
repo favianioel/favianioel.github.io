@@ -4,7 +4,7 @@
 'use strict';
 self.addEventListener("install", function (event) {
     event.waitUntil(
-        caches.open("jsmonthly").then(function(cache) {
+        caches.open("jsmonthlyfip").then(function(cache) {
             cache.addAll([
                 "/index.html",
                 "/app.css"
@@ -15,7 +15,7 @@ self.addEventListener("install", function (event) {
 
 self.addEventListener("fetch", function (event) {
     event.respondWith(
-        caches.open("jsmonthly").then(function (cache) {
+        caches.open("jsmonthlyfip").then(function (cache) {
             return cache.match(event.request);
         })     
     )
