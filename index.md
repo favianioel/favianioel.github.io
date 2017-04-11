@@ -3,8 +3,9 @@ layout: default
 ---
 ## [](#header-2)CV
 
-**_[Cv](https://favianioel.github.io/resume/) in shell like interaction:_**
-~~**_[Cv](https://favianioel.github.io/resume/) in boring page format:_**~~not done yet.
+**_*[Cv](https://favianioel.github.io/resume/) in shell like interaction_**
+
+~~**_*[Cv](https://favianioel.github.io/resume/) in boring page format_**~~
 
 
 > This is a blockquote following a header.
