@@ -14,7 +14,7 @@ Halloween Outreach in Cluj Napoca, Romania
 <div class='embed-container'><iframe src="https://player.vimeo.com/video/891202455?h=a657bde909" frameborder='0' webkitAllowFullScreen  allowFullScreen></iframe></div>
 
 ### Hope for Oslo
-<div class='embed-container'><iframe src="https://player.vimeo.com/video/889612116?h=61c7e25d06"frameborder='0' webkitAllowFullScreen  allowFullScreen></iframe></div>
+<div class='embed-container'><iframe src="https://player.vimeo.com/video/889612116?h=61c7e25d06" frameborder='0' webkitAllowFullScreen  allowFullScreen></iframe></div>
 Hope For Oslo (2023) with Steiger International
 
 ### SMS 2023
