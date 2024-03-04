@@ -17,9 +17,11 @@ publishable-key="pk_live_51OqJ61IvR5JJpU3sNbtnCa3wG5syyCGSqJKoQtjX2zRgSAMOeYd5vA
 
 <stripe-buy-button
   buy-button-id="buy_btn_1OqgKYIvR5JJpU3s06uxkR7w"
-  publishable-key="pk_live_51OqJ61IvR5JJpU3sNbtnCa3wG5syyCGSqJKoQtjX2zRgSAMOeYd5vABiqkXx4zorwnE86ovdAIzgQsz76Nwwdxdx00dZUXoZZC">
+  publishable-key="pk_live_51OqJ61IvR5JJpU3sNbtnCa3wG5syyCGSqJKoQtjX2zRgSAMOeYd5vABiqkXx4zorwnE86ovdAIzgQsz76Nwwdxdx00dZUXoZZC"
+>
 </stripe-buy-button>
 <stripe-buy-button
   buy-button-id="buy_btn_1OqcJsIvR5JJpU3s7CAqz0Tw"
-  publishable-key="pk_live_51OqJ61IvR5JJpU3sNbtnCa3wG5syyCGSqJKoQtjX2zRgSAMOeYd5vABiqkXx4zorwnE86ovdAIzgQsz76Nwwdxdx00dZUXoZZC">
+  publishable-key="pk_live_51OqJ61IvR5JJpU3sNbtnCa3wG5syyCGSqJKoQtjX2zRgSAMOeYd5vABiqkXx4zorwnE86ovdAIzgQsz76Nwwdxdx00dZUXoZZC"
+>
 </stripe-buy-button>
