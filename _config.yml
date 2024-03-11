@@ -21,12 +21,12 @@ author: Favian Poputa
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Steiger Resources: "https://www.steiger.org/resource-library"
+  About Me: "pages/aboutme"
+  #Resources:
+    #- Steiger Resources: "https://www.steiger.org/resource-library"
     # - Learn markdown: "https://www.markdowntutorial.com/"
   # Author's home: ""
-  Support: "support"
+  Support: "pages/support"
 
 ################
 # --- Logo --- #
